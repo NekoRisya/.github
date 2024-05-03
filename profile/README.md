@@ -5,3 +5,5 @@
    (PS. Read each repository Code-of-conduct or general code of conduct)
 - 👩‍💻 [blank note, i don't know what to write :(]
 - 🍿 Fun fact, the owner is [@RimuEirnarn](https://github.com/RimuEirnarn).
+
+[Discord Server!](https://discord.com/invite/U5y5XcdKG8--404)
