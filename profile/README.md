@@ -6,4 +6,4 @@
 - 👩‍💻 [blank note, i don't know what to write :(]
 - 🍿 Fun fact, the owner is [@RimuEirnarn](https://github.com/RimuEirnarn).
 
-[Discord Server!](https://discord.com/invite/U5y5XcdKG8--404)
+[Discord Server!](https://discord.com/invite/U5y5XcdKG8)
