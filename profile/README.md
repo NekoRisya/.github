@@ -58,6 +58,8 @@ Come hang out, discuss projects, share your work, or just exist in the general v
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/U5y5XcdKG8)
 
+If you prefer join the GitHub org, simply fill out [this form](https://forms.gle/cmAx5MeGNC9LHaaq8)
+
 ---
 
 > `nekorisya.print_credits()`
